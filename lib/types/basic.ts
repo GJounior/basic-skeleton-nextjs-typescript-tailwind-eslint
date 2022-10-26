@@ -1,3 +1,5 @@
-export default interface ExampleInterface{
-  example: string
+interface ExampleInterface{
+  example: string,
 }
+
+export default ExampleInterface;
